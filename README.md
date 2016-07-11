@@ -9,10 +9,16 @@ The app uses the following libraries and frameworks:
 * Node.js
 * Express
 * Jade templates
-* Mongoose
+* Mongoose  
 * AngularJS
 * Bootstrap 3
 * Socket.io
+
+## Installtion
+We need to manual install Mongodb
+apt-get install mongodb
+if you cannot found 
+apt-get update
 
 ## Demo
 
